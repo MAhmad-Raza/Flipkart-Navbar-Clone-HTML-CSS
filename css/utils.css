@@ -1,0 +1,13 @@
+.displayFlex {
+  display: flex;
+}
+
+.fa {
+  margin: 0 4px;
+}
+
+.fa-angle-down {
+  font-weight: lighter;
+  margin: 0;
+}
+
